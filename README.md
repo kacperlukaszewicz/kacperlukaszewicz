@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Discord: curfaze#3555
+### Discord: curfaze#3555 🎮
 
 <!--
 **curfaze/curfaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
