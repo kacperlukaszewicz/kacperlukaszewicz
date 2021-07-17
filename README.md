@@ -1,4 +1,4 @@
-# Yo 👋
+# Yo, wassup 👋
 ## Discord: curfaze#3555 🎮
 
 ### 🌱 I’m currently learning C++ 
