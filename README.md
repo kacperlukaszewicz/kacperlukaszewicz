@@ -1,4 +1,5 @@
 ## Discord: curfaze#0001 🎮
+### Fresh af lol ⭐
 
 <!--
 **curfaze/curfaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
