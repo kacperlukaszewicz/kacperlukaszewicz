@@ -1,4 +1,4 @@
-https://img.shields.io/github/followers/kacperlukaszewicz?style=social
+
 ## Discord: curfaze#0001 🎮
 ### Fresh af lol ⭐
 
